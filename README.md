@@ -1,20 +1,15 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x400/09090b/38bdf8?text=Olympiad+Edge+%7C+PDF-Booklets" alt="Olympiad Edge Banner" width="100%" />
+  <img src="https://img.shields.io/badge/Repo_Size-45.2%20MB-blue?style=for-the-badge&logo=git&logoColor=white" alt="Repo Size">
+  <img src="https://img.shields.io/badge/File_Count-11%20Modules-success?style=for-the-badge&logo=files&logoColor=white" alt="File Count">
+  <img src="https://img.shields.io/badge/Copyright-©_2026_Olympiad_Edge-orange?style=for-the-badge" alt="Copyright">
+  <a href="https://github.io">
+    <img src="https://img.shields.io/badge/Live_Portal-Access_System-purple?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Live Portal">
+  </a>
 
-<div align="center">
+  # ⚡ Olympiad Edge // PDF-Booklets
 
-  <!-- Dynamic GitHub Repository Badges -->
-  <img src="https://shields.io" alt="Repo Size">
-  <img src="https://shields.io" alt="File Count">
-  <img src="https://shields.io" alt="Copyright">
-  <a href="https://github.io"><img src="https://shields.io" alt="Live Portal"></a>
-
-</div>
-
-# ⚡ Olympiad Edge // PDF-Booklets
-
-*The definitive, version-controlled cloud archive powering the elite offline reference manual matrix for the Olympiad Edge curriculum ecosystem.*
+  ### The Central, Version-Controlled Cloud Archive Powering Elite Competitive Curriculums and Technical Mastery
 
 </div>
 
@@ -24,23 +19,24 @@
 
 | Asset Module | Core Coverage & Domain | Quick Actions |
 | :--- | :--- | :--- |
-| 🤖 **AI Assistance.pdf** | Advanced prompt engineering, LLM integration workflows, and cognitive automation strategies. | [Download](AI%20Assistance.pdf) |
-| 📄 **CV Recommandation.pdf** | Elite resume architecture, high-impact technical positioning, and recruiter signaling. | [Download](CV%20Recommandation.pdf) |
-| 💻 **Coding Platforms.pdf** | Competitive programming environments, sandbox optimizations, and test-harness setups. | [Download](Coding%20Platforms.pdf) |
-| 🧠 **Competitive Programming Training.pdf** | Algorithmic paradigms, data structures, and time-complexity optimization blueprints. | [Download](Competitive%20Programming%20Training.pdf) |
-| 🧬 **Double Helix Future.pdf** | Bio-informatics frontiers, synthetic biology paradigms, and computational life sciences. | [Download](Double%20Helix%20Future.pdf) |
-| 🌐 **Full-Stack Ecosystem.pdf** | End-to-end web architectures, micro-frontends, and resilient distributed backends. | [Download](Full-Stack%20Ecosystem.pdf) |
-| ⚙️ **Programming Basic Types.pdf** | Primitive semantics, memory layout fundamentals, and type system mechanics. | [Download](Programming%20Basic%20Types.pdf) |
-| 🚀 **Project Showroom & Capstone.pdf** | Production-grade portfolio engineering, defense protocols, and scale architecture. | [Download](Project%20Showroom%20&%20Capstone.pdf) |
-| ☁️ **SaaS Empire.pdf** | Multi-tenant cloud architectures, billing systems, and high-velocity product scaling. | [Download](SaaS%20Empire.pdf) |
-| 🛠️ **VS Code Extensions.pdf** | Developer tooling custom extensions, keybindings, and telemetry reduction workflows. | [Download](VS%20Code%20Extensions.pdf) |
-| 🌐 **Web Development Core Topics.pdf** | Modern DOM mechanics, network protocols, and performance optimization engineering. | [Download](Web%20Development%20Core%20Topics.pdf) |
+| ⚙️ **Programming Basic Types.pdf** | Primitive semantics, memory layout fundamentals, variable scoping, and type systems. | `[Download](Programming%20Basic%20Types.pdf)` |
+| 💻 **Coding Platforms.pdf** | Online judges, competitive environments, rating systems, and contest structures. | `[Download](Coding%20Platforms.pdf)` |
+| 🛠️ **VS Code Extensions.pdf** | Mandatory tools for linting, code formatting, git integration, and workstation customization. | `[Download](VS%20Code%20Extensions.pdf)` |
+| 🌐 **Web Development Core Topics.pdf** | Semantic HTML5, modern CSS/Tailwind layouts, and dynamic DOM manipulation with JavaScript. | `[Download](Web%20Development%20Core%20Topics.pdf)` |
+| 🗄️ **Full-Stack Ecosystem.pdf** | Client frameworks, backend orchestration, secure database structures, and cloud APIs. | `[Download](Full-Stack%20Ecosystem.pdf)` |
+| 🧠 **Competitive Programming Training.pdf** | Advanced data structures, algorithmic paradigms, Big-O complexity, and optimization roadmaps. | `[Download](Competitive%20Programming%20Training.pdf)` |
+| 🤖 **AI Assistance.pdf** | Advanced prompt engineering, automated code refactoring, and secure code auditing using Cursor and Claude. | `[Download](AI%20Assistance.pdf)` |
+| 🚀 **Project Showroom & Capstone.pdf** | Production-grade portfolio engineering, clean commit histories, and repo README craftsmanship. | `[Download](Project%20Showroom%20%26%20Capstone.pdf)` |
+| ☁️ **SaaS Empire.pdf** | Subscription billing models, scalable cloud architectures, user acquisition, and monetization. | `[Download](SaaS%20Empire.pdf)` |
+| 📄 **CV Recommandation.pdf** | Elite professional CV layouts, credential structuring, and high-impact developer positioning. | `[Download](CV%20Recommandation.pdf)` |
+| 🧬 **Double Helix Future.pdf** | Synthesizing international competitive coding mastery with commercial SaaS product creation. | `[Download](Double%20Helix%20Future.pdf)` |
 
 ---
 
-## 📥 Sourcing & Version Management
+## 🔄 Revision Management & Local Sourcing
 
-To clone this repository and maintain a local, offline-synced instance of the complete curriculum archive, execute the following command in your terminal:
+To deploy this archive locally for offline reference, clone the repository via terminal protocols:
 
 ```bash
-git clone [https://github.io/olympiad-edge/pdf-booklets.git](https://github.io/olympiad-edge/pdf-booklets.git)
+git clone [https://github.com.git](https://github.com.git)
+cd Olympiad-Edge-PDF-Booklets
