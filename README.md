@@ -2,10 +2,15 @@
 
 <img src="https://via.placeholder.com/1200x400/09090b/38bdf8?text=Olympiad+Edge+%7C+PDF-Booklets" alt="Olympiad Edge Banner" width="100%" />
 
-[![Repository Size](https://img.shields.io/github/repo-size/olympiad-edge/pdf-booklets?style=flat-square&color=38bdf8&logo=git&logoColor=white)](https://github.io)
-[![Total Files](https://img.shields.io/github/directory-file-count/olympiad-edge/pdf-booklets?style=flat-square&color=6366f1&logo=files&logoColor=white)](https://github.io)
-[![Copyright](https://img.shields.io/badge/Copyright-%C2%A9%20Olympiad%20Edge-purple?style=flat-square)](https://github.io)
-[![Olympiad Edge Platform](https://img.shields.io/badge/Platform-Live%20Portal-orange?style=flat-square&logo=internetexplorer&logoColor=white)](https://github.io)
+<div align="center">
+
+  <!-- Dynamic GitHub Repository Badges -->
+  <img src="https://shields.io" alt="Repo Size">
+  <img src="https://shields.io" alt="File Count">
+  <img src="https://shields.io" alt="Copyright">
+  <a href="https://github.io"><img src="https://shields.io" alt="Live Portal"></a>
+
+</div>
 
 # ⚡ Olympiad Edge // PDF-Booklets
 
